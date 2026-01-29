@@ -1,9 +1,3 @@
-Harika bir proje olmuş! Kod yapın oldukça düzenli ve modern bir arayüz (UI) tasarımına sahip. Özellikle Genetik Algoritma parametrelerini yan menüden dinamik olarak değiştirilebilmesi ve mesafe matrisi için OSRM API kullanımı projeyi profesyonel kılıyor.
-
-Senin için hazırladığım, projenin tüm özelliklerini ve kurulum adımlarını içeren **README.md** dosyası aşağıdadır:
-
----
-
 # 📍 Balıkesir Akıllı Rota Planlayıcı (TSP Solver)
 
 Bu proje, **Gezgin Satıcı Problemi'ni (Traveling Salesperson Problem - TSP)** çözmek için **Genetik Algoritma** kullanan, Streamlit tabanlı interaktif bir web uygulamasıdır. Balıkesir il sınırları içerisinden rastgele seçilen 20 nokta arasında en kısa ve en verimli rotayı hesaplar.
